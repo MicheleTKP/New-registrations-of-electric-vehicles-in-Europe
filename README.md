@@ -6,4 +6,4 @@ The registration of new battery electric vehicles (BEVs) and plug-in hybrid elec
 - And Regional Variations.
 There are notable differences in EV adoption across European countries:
 **Leading Countries**: Norway, Iceland, and Sweden have the highest shares of EVs in new car registrations.
-**Lagging Countries**: Some Central and Eastern European countries, along with Cyprus and Greece, have lower EV adoption rate
+  **Lagging Countries**: Some Central and Eastern European countries, along with Cyprus and Greece, have lower EV adoption rate
