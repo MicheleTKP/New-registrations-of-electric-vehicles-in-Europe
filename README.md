@@ -9,6 +9,7 @@ This repository contains a detailed analysis of the trends in electric vehicle (
 - Pandas - Data wrangling and cleaning using pandas.
 - Matplotlib and Seaborn - Visualization of registration trends over time.
 
+## Observations
 
 The trends in new registrations of electric vehicles (EVs) in Europe. The two aspects we will be observing are :
 
